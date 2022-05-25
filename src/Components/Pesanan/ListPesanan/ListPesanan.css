@@ -1,0 +1,11 @@
+ul > li {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-variant: small-caps;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgba(195, 224, 228, 0.411);
+    height: 100%;
+    width: 136px;
+}
+
+  
